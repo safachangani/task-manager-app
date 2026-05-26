@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import TaskCard from '../components/TaskCard'
-import type { Task } from '../types'
+import type { Task } from '../types/task'
 
 // dummy data to test UI first
 const dummyTasks: Task[] = [
